@@ -1,0 +1,9 @@
+.navbar{
+    background-color: blue;
+    display: flex;
+}
+
+.navbar h1{
+    color: aliceblue;
+}
+
